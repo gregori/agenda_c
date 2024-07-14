@@ -1,0 +1,32 @@
+# Arquivos gerados pela compilação do código C
+*.o
+*.out
+
+# Arquivos gerados pelo Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Arquivos de configuração do Visual Studio Code
+.settings/
+
+# Arquivos temporários
+*~
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de compilação
+*.exe
+*.dll
+
+# Arquivos de dependências
+*.deps/
+
+# Binário
+address_book
+
+# Base de dados
+contacts.dat
